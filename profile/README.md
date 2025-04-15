@@ -34,7 +34,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com/iasmimi">
-        <img src="https://imgs.search.brave.com/lbhMa_QIhwdrxzfV7Z06cdBCzNtN1K5C9aBoH200PSE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kaWFy/aW9kb25vcmRlc3Rl/LnZlcmRlc21hcmVz/LmNvbS5ici9pbWFn/ZS9jb250ZW50aWQv/cG9saWN5OjEuMzU4/MDAxMToxNzMwOTIz/MjkzL21jLWRpdmVy/dGlkYSUyMCgyKS5q/cGVnP2Y9MTZ4OSZo/PTU3NCZ3PTEwMjAm/JHAkZiRoJHc9Yjc3/ZWY3OA" width="100px;" alt="Foto da Iasmin"/><br>
+        <img src="https://avatars.githubusercontent.com/u/178601918?v=4"/><br>
         <sub>
           <b>Iasmin</b>
         </sub>
@@ -42,7 +42,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://github.com/irunael">
-        <img src="https://avatars.githubusercontent.com/u/178601918?v=4" width="100px;" alt="Foto do Irunael"/><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oTGzsvfhLJpPa1P0tt-tq-I2Q4e-LFi3FA&s" width="100px;" alt="Foto do Irunael"/><br>
         <sub>
           <b>Irunael</b>
         </sub>
