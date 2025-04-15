@@ -42,7 +42,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://github.com/irunael">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oTGzsvfhLJpPa1P0tt-tq-I2Q4e-LFi3FA&s" width="100px;" alt="Foto do Irunael"/><br>
+        <img src="https://avatars.githubusercontent.com/u/178601918?v=4" width="100px;" alt="Foto do Irunael"/><br>
         <sub>
           <b>Irunael</b>
         </sub>
