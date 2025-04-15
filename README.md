@@ -1,4 +1,3 @@
-
 # 🐾 Pet Vita - Sistema de Agendamento Veterinário  
 
 **Equipe 02 Bits | SENAI**  
@@ -27,16 +26,64 @@ O **Pet Vita** é a solução perfeita para conectar tutores de animais a profis
 - Agenda veterinária integrada  
 - Histórico de pacientes  
 
-## 👥 Equipe 02 Bits  
+## 🤝 Colaboradores
 
-| Integrante | GitHub |
-|------------|--------|
-| Iasmin | [iasmimi](https://github.com/iasmimi) |
-| Irunael | [irunael](https://github.com/irunael) |
-| Bernardo | [DevBernardo-Oliveira](https://github.com/DevBernardo-Oliveira) |
-| Felipe | [fearaujo293](https://github.com/fearaujo293) |
-| João | [JoaoNascimento1802](https://github.com/JoaoNascimento1802) |
-| Ruan | [ruanzinDoCorte](https://github.com/ruanzinDoCorte) |
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/iasmimi">
+        <img src="https://imgs.search.brave.com/lbhMa_QIhwdrxzfV7Z06cdBCzNtN1K5C9aBoH200PSE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kaWFy/aW9kb25vcmRlc3Rl/LnZlcmRlc21hcmVz/LmNvbS5ici9pbWFn/ZS9jb250ZW50aWQv/cG9saWN5OjEuMzU4/MDAxMToxNzMwOTIz/MjkzL21jLWRpdmVy/dGlkYSUyMCgyKS5q/cGVnP2Y9MTZ4OSZo/PTU3NCZ3PTEwMjAm/JHAkZiRoJHc9Yjc3/ZWY3OA" width="100px;" alt="Foto da Iasmin"/><br>
+        <sub>
+          <b>Iasmin</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/irunael">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oTGzsvfhLJpPa1P0tt-tq-I2Q4e-LFi3FA&s" width="100px;" alt="Foto do Irunael"/><br>
+        <sub>
+          <b>Irunael</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DevBernardo-Oliveira">
+        <img src="https://imgs.search.brave.com/4u2ZaACoMZ28wlleK1LreDYneIjEJzr3ZOCbbihdYNc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMjY2/MzMxOS9waG90by9n/ZXJtYW4tZGljdGF0/b3ItYWRvbGYtaGl0/bGVyLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1vVFM0aV9T/d0RCS2IxS0F1Tm5C/Si1kOEZGSHllWDMy/YlNqUnRWeFZWVEZN/PQ" width="100px;" alt="Foto do Bernardo"/><br>
+        <sub>
+          <b>Bernardo</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fearaujo293">
+        <img src="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/03/1615375584-3c17fcbd6d8a82584770d97294261706.jpg" width="100px;" alt="Foto do Felipe"/><br>
+        <sub>
+          <b>Felipe</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JoaoNascimento1802">
+        <img src="https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2021/06/16/gandalf-com-uma-arma.jpg" width="100px;" alt="Foto do João"/><br>
+        <sub>
+          <b>João</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ruanzinDoCorte">
+        <img src="https://i.pinimg.com/736x/6d/83/b9/6d83b96e6f062c57dcbeb3e325ebcd10.jpg" width="100px;" alt="Foto do Ruan"/><br>
+        <sub>
+          <b>Ruan</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📸 Preview  
 
