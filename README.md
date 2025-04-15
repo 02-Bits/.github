@@ -85,12 +85,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-## 📸 Preview  
-
-![Tela de Agendamento](https://via.placeholder.com/300x600/4D8BFF/FFFFFF?text=Agendamento)  
-*Interface principal do aplicativo*  
-
-![Perfil do Pet](https://via.placeholder.com/300x600/8BDF4D/FFFFFF?text=Perfil+do+Pet)  
-*Área de saúde do animal*  
+### 
 
 > Projeto desenvolvido como parte do programa SENAI de formação técnica
