@@ -50,7 +50,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://github.com/DevBernardo-Oliveira">
-        <img src="https://imgs.search.brave.com/4u2ZaACoMZ28wlleK1LreDYneIjEJzr3ZOCbbihdYNc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMjY2/MzMxOS9waG90by9n/ZXJtYW4tZGljdGF0/b3ItYWRvbGYtaGl0/bGVyLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1vVFM0aV9T/d0RCS2IxS0F1Tm5C/Si1kOEZGSHllWDMy/YlNqUnRWeFZWVEZN/PQ" width="100px;" alt="Foto do Bernardo"/><br>
+        <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/12/Griffith-stare.jpg" width="100px;" alt="Foto do Bernardo"/><br>
         <sub>
           <b>Bernardo</b>
         </sub>
