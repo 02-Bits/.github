@@ -34,7 +34,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com/iasmimi">
-        <img src="https://avatars.githubusercontent.com/u/178601918?v=4" width="100px;" alt="Foto da Iasmin"/><br>
+        <img src="https://i.pinimg.com/736x/f6/a1/dc/f6a1dc8113d84a13b4d8fcbfbfb0524a.jpg" width="100px;" alt="Foto da Iasmin"/><br>
         <sub>
           <b>Iasmin</b>
         </sub>
