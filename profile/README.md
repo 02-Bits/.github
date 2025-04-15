@@ -34,7 +34,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com/iasmimi">
-        <img src="https://avatars.githubusercontent.com/u/178601918?v=4"/><br>
+        <img src="https://avatars.githubusercontent.com/u/178601918?v=4" width="100px;" alt="Foto da Iasmin"/><br>
         <sub>
           <b>Iasmin</b>
         </sub>
@@ -84,7 +84,5 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
-
-### 
 
 > Projeto desenvolvido como parte do programa SENAI de formação técnica
