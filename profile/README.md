@@ -82,6 +82,7 @@ npm start
 * Node.js e npm/yarn
 * MySQL Server
 
+```
 ---
 
 ## 👨‍💻 Equipe e Contribuidores
